@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SUBMISSION ANDROID</string>
+    <string name="nama_iphone">Nama Iphone</string>
+    <string name="detail">Detail</string>
+    <string name="list_mode">List Mode</string>
+    <string name="grid_mode">Grid Mode</string>
+    <string name="cardview_mode">CardView Mode</string>
+    <string name="user_mode">User Mode</string>
+    <string name="Detail">Detail</string>
+    <string name="Overview">Overview</string>
+    <string name="warna">Warna</string>
+    <string name="harga">Harga</string>
+    <string name="varian">Varian</string>
+    <string name="nama_user">Grace Yunantassa Firgia</string>
+    <string name="email_user">gracellata@gmail.com</string>
+    <string name="detail_produk">Detail Produk</string>
+    <string name="user_profile">User Profile</string>
+</resources>
